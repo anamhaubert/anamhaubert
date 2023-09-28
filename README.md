@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @anamhaubert
+- 👀 I’m interested in FullStack programming
+- 🌱 I’m currently learning Java, PHP, C, MySQL
+- 📫 How to reach me: Instagram: @devilisshy
