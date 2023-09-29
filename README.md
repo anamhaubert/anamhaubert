@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java, PHP, C, MySQL
 - 📫 How to reach me: Instagram: @devilisshy
 
+*****************************************************
 
 - 👋 Olá, eu sou a @anamhaubert
 - 👀 Sou interessada em programação FullStack
